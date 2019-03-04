@@ -67,7 +67,6 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
   background-color: rgb(255, 255, 255);
 }
 
@@ -4835,6 +4834,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
+  color: rgb(0, 0, 0);
 }
 
 .navbar-dark .navbar-toggler {
