@@ -4811,11 +4811,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -10666,7 +10666,7 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-masthead.jpg");
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
