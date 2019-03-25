@@ -1,10 +1,25 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+# [ETIPAY - Proyecto FINAL](https://startbootstrap.com/template-overviews/creative/)
+
+Programa B_it
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](https://github.com/AgustinGancharov/sigem/blob/master/img/bg-masthead.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
